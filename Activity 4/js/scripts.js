@@ -5,7 +5,7 @@ var greetingEl = document.getElementById('greeting');
 
 greetingEl.textContent = greeting;
 
-var price = 300,
+var price = 299.99,
     studentDiscount = .20,
     studentPrice = price - (price * studentDiscount),
     priceEl = document.getElementById("price"),
