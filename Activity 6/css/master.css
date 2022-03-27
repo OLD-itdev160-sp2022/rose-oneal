@@ -1,0 +1,19 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 500px;
+    margin:  0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+.out-message{
+    background-color: aquamarine;
+}
+
+.in-message{
+    background-color: blueviolet;
+}
+
+
